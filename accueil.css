@@ -225,6 +225,9 @@ margin-top: 5%;
     .cadre{
         margin-bottom: 20px;
     }
+    .button{
+        margin-right: 20px;
+    }
     .colonne{
         background-color: white;
         height: 85px;
