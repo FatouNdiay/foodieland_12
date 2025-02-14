@@ -140,6 +140,10 @@
 .navbar-brand{
     font-size: 10px;
 }
+.cadre{
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
 }
  
 @media (max-width: 800px,1024px) {
