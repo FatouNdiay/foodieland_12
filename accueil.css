@@ -219,6 +219,9 @@ margin-top: 5%;
         margin-left: 40px;
         gap: 10px;
     }
+    .simpl{
+        margin-left:35px ;
+    }
     .colonne{
         background-color: white;
         height: 85px;
