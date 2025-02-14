@@ -249,5 +249,8 @@
         height: 35px;
         justify-content: center;
     }
+    .masker{
+        width: 90px;
+    }
 
 }
