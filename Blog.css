@@ -245,7 +245,8 @@
        text-align: center;
     }
     .buten {
-        width: 40px;
+        width: 40%;
+        height: 35px;
     }
 
 }
