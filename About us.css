@@ -147,7 +147,7 @@
     
 }
 }
-@media(max-width:400px){
+@media(max-width:500px){
     .food_top {
         flex-direction: column;
         text-align: center;
@@ -166,5 +166,9 @@
      }
      .elip{
         display: flex;
+     }
+     .cadre{
+        margin-left: 80px;
+        margin-top: 20px;
      }
 }
