@@ -147,7 +147,7 @@
     
 }
 }
-@media(max-width:500px){
+@media(max-width:400px){
     .food_top {
         flex-direction: column;
         text-align: center;
@@ -169,7 +169,7 @@
      }
     
      .cadre{
-        margin-left: 90%;
+        margin-left: 120%;
         margin-top: 20px;
      }
      .colde{
