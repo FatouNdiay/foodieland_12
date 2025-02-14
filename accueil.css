@@ -213,10 +213,10 @@ margin-top: 5%;
     }
     .mag{
         display: flex;
-        gap: 24%;
+        gap: 45%;
     }
     .simple{
-        margin-left: 20px;
+        justify-content: center;
     }
     .colonne{
         background-color: white;
