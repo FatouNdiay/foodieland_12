@@ -250,9 +250,11 @@
         justify-content: center;
     }
     .masker{
-        width: 220px;
-        height: 80px;
-        
+        width: 240px;
+        height: 117px; 
+    }
+    .cro{
+        font-size: 10px;
     }
 
 }
