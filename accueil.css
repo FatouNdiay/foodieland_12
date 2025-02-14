@@ -215,8 +215,8 @@ margin-top: 5%;
         display: flex;
         gap: 45%;
     }
-    .simple{
-        justify-content: center;
+    .card{
+        margin-left: 40px;
     }
     .colonne{
         background-color: white;
