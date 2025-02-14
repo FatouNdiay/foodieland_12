@@ -1,0 +1,355 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nam{
+    margin-left: 60px;
+    margin-top: 15px;
+    
+}
+.name{
+    margin-left: 60px;
+  border-color: rgba(8, 8, 8, 0.952);
+    border-radius: 15px;
+   border: 0px solid #0a0a0a;
+   box-shadow: 0 0 3px #0c0c0c;
+    width: 230px;
+    height: 40px;
+    padding-left: 5px;
+}
+.messag{
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.butt{
+    margin-left: 500px;
+    margin-bottom: 05px;
+}
+.contact{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.titl{
+    text-align: center;
+    padding-left: 25px; 
+    margin-top: 10px;  
+}
+.title{
+    text-align: center;
+    padding-left: 25px; 
+    margin-top: 15px;  
+}
+.formu{
+    text-align: center;
+    margin-top: 10%;
+}
+.colonne{
+    background-color: white;
+    height: 60px;
+    border-radius: 15px;
+   width: 40%;
+    border: none;
+   
+}
+.POIN {
+    border: none;
+    width: 250px;
+    padding-left: 5px;
+}
+
+
+.bann{
+  padding: 5%;
+
+  background-color: white; 
+    
+}
+
+ .bann .container {
+    background-color:#bedada;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 0;
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+   
+}
+
+.images img {
+    width: 200px;
+}
+.titre{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.pied{
+    margin-top: 80px;
+}
+
+
+
+
+.food{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+.food_top {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.37);
+}
+
+.droite a {
+    text-decoration: none;
+    color: black;
+}
+.gauch{
+    justify-content: center;
+}
+.webe{
+    display: flex;
+}
+.web{
+    color: red;
+}
+
+@media(max-width:1024px){
+    .navbar-brand{
+        font-size: 15px;
+    }
+    .navbar-expand-lg{
+        font-size: 15px;
+    }
+    .navbar-nav{
+        margin-right: 22%;
+    }
+    .faceb{
+        padding: 2px;
+    }
+    .groupe{
+        width: 200px;
+    }
+    .contact{
+        
+        font-size: 10px;
+    }
+    .inpute{
+        width: 220px;
+        font-size: 10px;  
+    }
+    .inputer{
+        
+        width: 220px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+    .input{
+        margin-left: 55%;
+    }
+    .form-control{
+        width: 180%;
+        margin-right: 5px;
+    }
+    .form-select{
+        width: 180%;
+        padding-left: 10%;
+    }
+    .from{
+        width: 285%;
+    }
+    .butt{
+        margin-left: 350px;
+        margin-top: 5px;
+    
+    }
+    .name{
+        margin-left: 20px;
+      border-color: rgba(8, 8, 8, 0.952);
+        border-radius: 15px;
+       border: 1px solid #0a0a0a;
+       box-shadow: 0 0 3px #0c0c0c;
+        width: 80px;
+        height: 40px;
+        padding-left: 3px;
+    }
+    .nam{
+        margin-left: 20px;
+        margin-top: 15px; 
+    }
+    .groupe-contact{
+        margin-right:  25%; 
+    }
+    .placehol{
+        font-size: 10px;
+    }
+    .Messag{
+        width: 320px;
+        margin-right: 15px;
+    }
+    .images{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0;
+       
+    }
+    
+    .images img {
+        width: 150px;
+    }
+    .colonne{
+        background-color: white;
+        height: 60px;
+        border-radius: 15px;
+       width: 50%;
+        border: none;
+       
+    }
+}
+
+@media(max-width:800px){
+    .navbar-brand{
+        font-size: 20px;
+    }
+    .navbar-expand-lg{
+        font-size: 15px;
+    }
+    .navbar-nav{
+        margin-right: 22%;
+    }
+    .faceb{
+        padding: 2px;
+    }
+    .groupe{
+        width: 150px;
+    }
+    .contact{
+        
+        font-size: 15px;
+    }
+    .inpute{
+        width: 220px;
+        font-size: 10px;  
+    }
+    .inputer{
+        flex-direction: column-reverse
+        width: 220px;
+        font-size: 10px;
+        
+    }
+    .input{
+        margin-left: 55%;
+    }
+    .form-control{
+        width: 180%;
+        margin-right: 5px;
+    }
+    .form-select{
+        width: 180%;
+        padding-left: 10%;
+    }
+    .from{
+        width: 285%;
+    }
+    .butt{
+        margin-left: 350px;
+        margin-top: 5px;
+    
+    }
+    .name{
+        margin-left: 20px;
+      border-color: rgba(8, 8, 8, 0.952);
+        border-radius: 15px;
+       border: 1px solid #0a0a0a;
+       box-shadow: 0 0 3px #0c0c0c;
+        width: 80px;
+        height: 40px;
+        padding-left: 3px;
+    }
+    .nam{
+        margin-left: 20px;
+        margin-top: 15px; 
+    }
+    .groupe-contact{
+        margin-right:  20%; 
+    }
+    .placehol{
+        font-size: 10px;
+    }
+    .Messag{
+        width: 300px;
+        margin-right: 15px;
+    }
+    .images{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0;
+       
+    }
+    
+    .images img {
+        width: 150px;
+    }
+    .colonne{
+        background-color: white;
+        height: 60px;
+        border-radius: 15px;
+       width: 65%;
+        border: none;
+       
+    }
+    .card-title{
+        font-size: 15px;
+    }
+}
+@media(max-width:500px){
+
+
+    .colonne{
+        background-color: white;
+        height: 70px;
+        border-radius: 15px;
+       width: 98%;
+        border: none;
+       
+    }
+    .butn{
+        width: 28%;
+        margin-bottom: 10px;
+    }
+    .food_top {
+        flex-direction: column;
+        text-align: center;
+        font-size: 10px;
+     }
+     .gauch{
+        font-size: 12px;
+     }
+     .butt{
+        margin-left: 120px;
+     }
+     .Messag{
+        width: 90px;
+        margin-right: 5px;
+    }
+    .textar{
+        flex-direction: column;
+        width: 287px;
+        height: 70px;
+    }
+    .from{
+        width: 280px;
+    }
+    .inputer{
+       justify-content: flex-start;
+    }
+}

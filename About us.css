@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.phot1 {
+    margin-left: 300px;
+}
+.parg{
+    margin-left: 25px;  
+}
+.par{
+    margin-top:10px ;
+}
+.titre{
+    margin-top: 20px;
+}
+.t{
+    margin-top: 20px;
+    margin-left: 45px;
+}
+.fat{
+    margin-left: 80px;
+}
+.lore{
+    margin-top: 10px;
+}
+.lorem{
+    padding-left: 10px ;
+    background:linear-gradient(to right, rgba(0, 0, 0, 0.658),white);
+    width: 450px;
+    height: 100px;
+}
+
+.titl{
+    text-align: center;
+    padding-left: 25px; 
+    margin-top: 10px;  
+}
+.title{
+    text-align: center;
+    padding-left: 25px; 
+    margin-top: 15px;  
+}
+.formu{
+    text-align: center;
+    margin-top: 10%;
+}
+.colonne{
+    background-color: white;
+    height: 60px;
+    border-radius: 15px;
+   width: 40%;
+    border: none;
+   
+}
+.POIN {
+    border: none;
+    width: 250px;
+}
+
+
+.bann{
+  padding: 5%;
+
+  background-color: white; 
+    
+}
+
+ .bann .container {
+    background-color:#bedada;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 0;
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+   
+}
+
+.images img {
+    width: 200px;
+}
+.titre{
+    text-align: center;
+    margin-top: 25px;
+}
+.cad{
+    gap:  10px;
+}
+.pied{
+    margin-top: 80px;
+}
+.container.row{
+    gap: 5%;
+}
+
+.food{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+.food_top {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.37);
+}
+
+.droite a {
+    text-decoration: none;
+    color: black;
+}
+.gauch{
+    justify-content: center;
+}
+.webe{
+    display: flex;
+}
+.web{
+    color: red;
+}
+@media(max-width:1024px){
+
+    .colonne{
+        background-color: white;
+        height: 60px;
+        border-radius: 15px;
+       width: 65%;
+        border: none; 
+    }
+    .faceb{
+        padding: 2px;
+    }
+    .card-title{
+        font-size: 13px;
+    }
+}
+@media(max-width:800px){
+    
+ .bann .container {
+    background-color:#bedada;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 0;
+    width:1000px;
+    
+}
+}
+@media(max-width:400px){
+    .food_top {
+        flex-direction: column;
+        text-align: center;
+        font-size: 10px;
+     }
+}
