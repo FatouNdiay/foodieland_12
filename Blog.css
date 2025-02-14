@@ -247,7 +247,7 @@
     .buten {
         width: 25%;
         height: 50px;
-        justify-content: center;
+        justify-content: end;
     }
     .masker{
         width: 250px;
