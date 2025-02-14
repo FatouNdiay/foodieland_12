@@ -215,6 +215,9 @@ margin-top: 5%;
         display: flex;
         gap: 24%;
     }
+    .simple{
+        margin-left: 20px;
+    }
     .colonne{
         background-color: white;
         height: 85px;
