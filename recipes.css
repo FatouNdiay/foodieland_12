@@ -90,7 +90,7 @@
     color: red;
 }
 
-@media (max-width:400px) {
+@media (max-width:500px) {
     .POIN {
         border: none;
         width: 130px;
@@ -110,9 +110,9 @@
     }
     .colonne{
         background-color: white;
-        height: 80px;
+        height: 85px;
         border-radius: 15px;
-       width: 95%;
+       width: 84%;
         border: none;
         gap: 10em;
         font-size: 15px; 
