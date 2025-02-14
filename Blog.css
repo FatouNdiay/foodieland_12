@@ -246,11 +246,11 @@
     }
     .buten {
         width: 35%;
-        height: 35px;
+        height: 45px;
         justify-content: center;
     }
     .masker{
-        width: 90px;
+        width: 150px;
     }
 
 }
