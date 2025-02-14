@@ -232,12 +232,10 @@ margin-top: 5%;
         background-color: white;
         height: 85px;
         border-radius: 15px;
-        width: 90%;
+       width: 84%;
         border: none;
-    }
-    .POIN{
-        margin-left: 70px;
-       
+        gap: 10em;
+        font-size: 15px; 
     }
 }
 
