@@ -211,6 +211,9 @@ margin-top: 5%;
     .bad{
         width: 50px;
     }
+    .mag{
+        margin-left: 40px;
+    }
     .colonne{
         background-color: white;
         height: 85px;
