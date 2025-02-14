@@ -217,6 +217,7 @@ margin-top: 5%;
     }
     .simple{
         margin-left: 40px;
+        gap: 10px;
     }
     .colonne{
         background-color: white;
