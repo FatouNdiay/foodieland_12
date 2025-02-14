@@ -244,5 +244,8 @@
        flex-direction: column;
        text-align: center;
     }
+    .buten {
+        width: 40px;
+    }
 
 }
