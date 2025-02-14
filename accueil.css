@@ -212,7 +212,8 @@ margin-top: 5%;
         width: 50px;
     }
     .mag{
-        margin-left: 40px;
+        display: flex;
+        gap: 24%;
     }
     .colonne{
         background-color: white;
