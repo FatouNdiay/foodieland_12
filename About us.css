@@ -167,11 +167,7 @@
      .elip{
         display: flex;
      }
-     .titl{
-        text-align: center;
-        padding-left: 35px; 
-        margin-top: 10px;  
-    }
+    
      .cadre{
         margin-left: 90%;
         margin-top: 20px;
