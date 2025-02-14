@@ -167,8 +167,11 @@
      .elip{
         display: flex;
      }
+     .titl{
+        margin-left: 40px;
+     }
      .cadre{
-        margin-left: 70%;
+        margin-left: 90%;
         margin-top: 20px;
      }
 }
