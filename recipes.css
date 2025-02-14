@@ -74,28 +74,20 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 100;
 }
-.foot {
-  display: flex;
+
+.food_top {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.37);
 }
-.nav-link{
+
+.droite a {
+    text-decoration: none;
     color: black;
-    text-decoration:none ;
 }
-.face{
-    margin-left: 700px;
-    
+.webe{
+    display: flex;
 }
-.faceb{
-    padding: 5px;
-}
-.foot{
-    margin-top: 5%;
-}
-.navbar-nav{
-    margin-left: 270px;
-}
-.twitt{
-    margin-left: 400px;
+.web{
+    color: red;
 }
 
 @media (max-width:400px) {
