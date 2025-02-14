@@ -222,6 +222,9 @@ margin-top: 5%;
     .simpl{
         margin-left:35px ;
     }
+    .cadre{
+        gap: 80%;
+    }
     .colonne{
         background-color: white;
         height: 85px;
