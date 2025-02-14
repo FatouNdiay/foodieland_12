@@ -168,8 +168,10 @@
         display: flex;
      }
      .titl{
-        margin-left: 80px;
-     }
+        text-align: center;
+        padding-left: 35px; 
+        margin-top: 10px;  
+    }
      .cadre{
         margin-left: 90%;
         margin-top: 20px;
