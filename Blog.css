@@ -247,6 +247,7 @@
     .buten {
         width: 45%;
         height: 35px;
+        justify-content: center;
     }
 
 }
