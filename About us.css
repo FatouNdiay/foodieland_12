@@ -160,7 +160,9 @@
      .parag{
         margin-left: 90%
      }
-     
+     .img29{
+        flex-direction: row;
+     }
      .elip{
         display: flex;
      }
