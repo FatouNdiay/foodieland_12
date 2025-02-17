@@ -161,9 +161,7 @@
         margin-left: 90%
      }
      .img29{
-        width: 100px;
-        height: 60px;
-        padding-left: 70px;
+       float: inline-end;
      }
      .elip{
         display: flex;
