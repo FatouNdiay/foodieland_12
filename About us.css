@@ -120,22 +120,7 @@
 .web{
     color: red;
 }
-@media(max-width:1024px){
 
-    .colonne{
-        background-color: white;
-        height: 60px;
-        border-radius: 15px;
-       width: 65%;
-        border: none; 
-    }
-    .faceb{
-        padding: 2px;
-    }
-    .card-title{
-        font-size: 13px;
-    }
-}
 @media(max-width:800px){
     
  .bann .container {
