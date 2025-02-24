@@ -152,6 +152,12 @@
      .elip{
         display: flex;
      }
-     
+     .cader{
+        margin-left: 80%;
+     }
+     .titl{
+        font-size: 30px;
+        text-align: end;
+     }
      
 }
