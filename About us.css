@@ -164,5 +164,19 @@
         font-size: 30px;
         text-align: end;
      }
+     .colde{
+        margin-left: 50%;
+     }
+     .colonne{
+        background-color: white;
+        height: 60px;
+        border-radius: 15px;
+       width: 40%;
+        border: none;
+       
+    }
+    .titl{
+        text-align: center;
+    }
      
 }
