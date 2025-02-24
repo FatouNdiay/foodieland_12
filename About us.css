@@ -178,14 +178,21 @@
      }
      .colonne{
         background-color: white;
-        height: 60px;
+        height: 90px;
         border-radius: 15px;
-       width: 40%;
+       width: 85%;
         border: none;
-       
+    }
+    .btn{
+        margin-bottom: 40px;
+        margin-right: 80px;
     }
     .titl{
         text-align: center;
+    }
+    .POIN{
+        font-size: 35px;
+        margin-right: 10px;
     }
      
 }
