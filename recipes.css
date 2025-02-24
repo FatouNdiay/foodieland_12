@@ -117,6 +117,10 @@
         gap: 10em;
         font-size: 15px; 
     }
+    .btn{
+        margin-bottom: 40px;
+        margin-right: 80px;
+    }
     .inform{
         margin-top: 5px;
     }
