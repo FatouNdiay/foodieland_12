@@ -138,7 +138,7 @@
     .food_top {
         flex-direction: column;
         text-align: center;
-        font-size: 10px;
+        font-size: 18px;
      }
      .titr{
         margin-left: 75%;
@@ -193,6 +193,10 @@
     .POIN{
         font-size: 35px;
         margin-right: 10px;
+    }
+    .droite{
+        margin-left: 95%;
+        margin-bottom: 8px;
     }
      
 }
