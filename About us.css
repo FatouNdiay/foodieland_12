@@ -186,6 +186,15 @@
      .colde{
         margin-left: 35%;
      }
+     .lore{
+        margin-top: 10px;
+    }
+    .lorem{
+        padding-left: 10px ;
+        background:linear-gradient(to right, rgba(0, 0, 0, 0.658),white);
+        width: 250px;
+        height: 80px;
+    }
      .colonne{
         background-color: white;
         height: 90px;
