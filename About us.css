@@ -200,24 +200,8 @@
         width: 250px;
         height: 80px;
     }
-    .colonne{
-        background-color: white;
-        height: 60px;
-        border-radius: 15px;
-       width: 65%;
-        border: none;
-      
-    }
-    .images{
-        display: flex;
-        justify-content: space-between;
-        width: 100%;
-        padding: 0;
-       
-    }
-    .images img {
-        width: 200PX;
-    }
+    
+    
     .title{
         font-size: 8px;
     }
