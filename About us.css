@@ -200,15 +200,19 @@
         width: 250px;
         height: 80px;
     }
-     .colonne{
+    .colonne{
         background-color: white;
-        height: 90px;
+        height: 60px;
         border-radius: 15px;
-       width: 90%;
-        border: none; 
+       width: 80%;
+        border: none;
+      
+    }
+    .images img {
+        width: 180PX;
     }
     .title{
-        font-size: 15px;
+        font-size: 8px;
     }
     .titl{
         text-align: center;
