@@ -323,7 +323,7 @@
        
     }
     .images{
-        display: column;
+        display: none;
         justify-content: space-between;
         width: 100%;
         padding: 0;
