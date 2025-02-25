@@ -164,6 +164,14 @@
         width: 80px;
         height: 80px;
      }
+     .bann .container {
+        background-color:#bedada;
+        border-radius: 20px;
+        overflow: hidden;
+        padding: 0;
+        width:600px;
+        
+    }
      .elip{
         display: flex;
      }
