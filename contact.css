@@ -322,6 +322,13 @@
         border: none;
        
     }
+    .images{
+        display: column;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0;
+       
+    }
     .butn{
         width: 28%;
         margin-bottom: 10px;
