@@ -173,16 +173,16 @@
         border-radius: 10px;
         overflow: hidden;
         padding: 0;
-        width:300%;
+        width:100%;
         height: 180%;
         float: inline-start;
         
     }
     .colonne{
         background-color: white;
-        height: 80px;
+        height: 90px;
         border-radius: 15px;
-      width: 40%;
+      width: 80%;
         border: none;
        
     }
