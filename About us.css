@@ -175,6 +175,7 @@
         padding: 0;
         width:200%;
         height: 180%;
+        float: inline-start;
         
     }
     .colonne{
