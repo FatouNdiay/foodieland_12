@@ -163,6 +163,7 @@
      .phot1{
         width: 80px;
         height: 80px;
+        
      }
      .bann .container {
         background-color:#bedada;
@@ -175,6 +176,7 @@
     }
      .elip{
         display: flex;
+        float: inline-end;
      }
      .cader{
         margin-right: 80%;
