@@ -98,6 +98,10 @@
 .container.row{
     gap: 5%;
 }
+.img29{
+    width: 80%;
+    border-radius: 20px;
+}
 
 .food{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -132,7 +136,7 @@
     
 }
 }
-@media(max-width:400px){
+@media(max-width:500px){
     
     
     .food_top {
@@ -141,7 +145,7 @@
         font-size: 18px;
      }
      .titr{
-        margin-left: 40%;
+        
         font-size: 20px;
      }
      .titr{
@@ -149,12 +153,12 @@
      }
      
      .parag{
-        margin-left: 60%;
+       
         font-size: 10px;
         margin-top: 20px;
      }
      .img29{
-        width: 30px;
+        width: 100%;
      }
      .rect{
         max-width: 300px;
@@ -162,7 +166,7 @@
      .phot1{
         width: 80px;
         height: 80px;
-        
+        margin-left: 0px;
      }
      .bann .container {
         background-color:#bedada;
@@ -185,7 +189,7 @@
         text-align: end;
      }
      .colde{
-        margin-left: 35%;
+        /* margin-left: 35%; */
      }
      .lore{
         margin-top: 10px;
@@ -208,7 +212,7 @@
         text-align: center;
     }
     .droite{
-        margin-left: 95%;
+        /* margin-left: 95%; */
         margin-bottom: 8px;
     } 
 } 
