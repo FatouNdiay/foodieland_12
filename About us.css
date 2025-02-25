@@ -208,8 +208,15 @@
         border: none;
       
     }
+    .images{
+        display: flex;
+        justify-content: space-between;
+        width: 10%;
+        padding: 0;
+       
+    }
     .images img {
-        width: 230PX;
+        width: 20PX;
     }
     .title{
         font-size: 8px;
