@@ -207,9 +207,12 @@
        width: 70%;
         border: none; 
     }
-    
+    .title{
+        font-size: 15px;
+    }
     .titl{
         text-align: center;
+        font-size: 15px;
     }
     .droite{
         /* margin-left: 95%; */
