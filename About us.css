@@ -183,8 +183,10 @@
         height: 90px;
         border-radius: 15px;
       width: 85%;
-        border: none;
-       
+        border: none; 
+    }
+    .btn{
+        font-size: 10px;
     }
      .elip{
         display: flex;
