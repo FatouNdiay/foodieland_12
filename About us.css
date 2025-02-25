@@ -159,6 +159,9 @@
         max-width: 300px;
         margin-left: 20%;
      }
+     .rect{
+        max-width: 200px;
+     }
      .phot1{
         width: 80px;
         height: 80px;
