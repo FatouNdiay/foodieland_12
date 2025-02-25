@@ -314,7 +314,7 @@
 @media(max-width:500px){
 
     .groupe{
-        width: 220px;
+        margin-left: 20px;
     }
     .colonne{
         background-color: white;
