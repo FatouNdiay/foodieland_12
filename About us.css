@@ -204,19 +204,19 @@
         background-color: white;
         height: 60px;
         border-radius: 15px;
-       width: 80%;
+       width: 65%;
         border: none;
       
     }
     .images{
         display: flex;
         justify-content: space-between;
-        width: 10%;
+        width: 100%;
         padding: 0;
        
     }
     .images img {
-        width: 20PX;
+        width: 200PX;
     }
     .title{
         font-size: 8px;
